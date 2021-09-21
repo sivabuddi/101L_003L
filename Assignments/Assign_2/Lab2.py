@@ -1,0 +1,1 @@
+print("Assingment belongs to Lab2")
